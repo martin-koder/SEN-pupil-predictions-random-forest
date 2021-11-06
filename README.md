@@ -1,6 +1,6 @@
 # Prediciting special needs student numbers from socio-economic data using random forest and neural networks
 
-This folder contains the data files and associated ipynb files supporting my 701 coursework project.
+This folder contains the data files and associated ipynb files supporting this project.
 
 QUICKSTART - Simply run the 'SEND Data ML Models FINAL' file with the 'df_merged_with_lat_lon_trimmed_with_ohe_school_types.csv' loaded already
 
