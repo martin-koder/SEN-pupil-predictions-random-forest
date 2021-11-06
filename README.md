@@ -1,4 +1,4 @@
-# 701-Coursework
+# Prediciting special needs student numbers from socio-economic data using random forest and neural networks
 
 This folder contains the data files and associated ipynb files supporting my 701 coursework project.
 
